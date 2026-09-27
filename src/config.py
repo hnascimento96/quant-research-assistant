@@ -1,0 +1,3 @@
+GEMINI_MODEL = "gemini-3.8-flash"
+DATE_START = "2019-01-01"
+DATE_END   = "2026-08-31"
